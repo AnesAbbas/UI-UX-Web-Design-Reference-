@@ -1,4 +1,11 @@
 
+
+# UI/UX Design Reference
+
+<img src="images/banner.png" style="width:100%"/>
+<!-- ![alt text](images/logo.png) -->
+
+
 ```
 This guide includes quick references to important CSS concepts, generators to speed up development, libraries, and useful links for further reading.
 ```
