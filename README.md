@@ -1,6 +1,6 @@
 
 
-# UI/UX Design Reference
+# UI/UX Web Design Reference
 
 <img src="images/banner.png" style="width:100%"/>
 <!-- ![alt text](images/logo.png) -->
