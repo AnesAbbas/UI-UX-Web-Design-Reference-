@@ -838,6 +838,10 @@ breakpoints
 
 ----
 
+Flaticons
+
+----
+
 
 create a design system generator
 
